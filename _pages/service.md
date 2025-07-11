@@ -9,8 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Professional Activities
-======
+<h2 style="text-align: left; margin-bottom: 30px; 
+font-family: Segoe UI;
+margin:12px 0px 20px 0px;
+font-weight: 700;
+color: rgb(73, 78, 81);
+line-height:27px;
+font-size: 23px;">Professional Activities</h2>
+
 <ul>
   <li>Invited Speaker at <a href="https://socalsysbio.github.io/SoCalSysBio2023/" target="_blank" rel="noopener noreferrer">SoCal SysBio 2023</a></li>
   <li>Session Chair of the Artificial Intelligence Techniques for BioMedicine and HealthCare (<a href="https://sites.google.com/view/aibh2022/home?pli=1" target="_blank" rel="noopener noreferrer">AIBH</a>) Workshop at <a href="https://ieeebibm.org/BIBM2022/" target="_blank" rel="noopener noreferrer">IEEE-BIBM 2022</a></li>
@@ -22,8 +28,13 @@ Professional Activities
   <li>Panelist of the CSU Program for Education and Research in Biotechnology (<a href="https://www.calstate.edu/impact-of-the-csu/research/csubiotech/" target="_blank" rel="noopener noreferrer">CSUPERB</a>) in 2022</li>
 </ul>
 
-Reviewer
-======
+<h2 style="text-align: left; margin-bottom: 30px; 
+font-family: Segoe UI;
+margin:12px 0px 20px 0px;
+font-weight: 700;
+color: rgb(73, 78, 81);
+line-height:27px;
+font-size: 23px;">Reviewer</h2>
 <ul>
   <li>Machine Learning and Physical Sciences Workshop (<a href="https://ml4physicalsciences.github.io/2023/" target="_blank" rel="noopener noreferrer">ML4PHYS</a>), NeurIPS 2023</li>
   <li>PLOS ONE Journal (<a href="https://journals.plos.org/plosone/" target="_blank" rel="noopener noreferrer">PloS One</a>)</li>
@@ -39,8 +50,14 @@ Reviewer
   <li>Iranian Conference on Computational Geometry (<a href="http://iccg.aut.ac.ir/" target="_blank" rel="noopener noreferrer">ICCG</a>) 2016</li>
 </ul>
 
-Women in STEM
-======
+<h2 style="text-align: left; margin-bottom: 30px; 
+font-family: Segoe UI;
+margin:12px 0px 20px 0px;
+font-weight: 700;
+color: rgb(73, 78, 81);
+line-height:27px;
+font-size: 23px;">Women in STEM</h2>
+
 <ul>
   <li>Faculty Speaker at <a href="https://www.calstatela.edu/ecst/success/launchpad" target="_blank" rel="noopener noreferrer">LAunchpad</a> 2022 and 2023</li>
   <li>Featured Speaker at <a href="https://casugol.com/ftwit/" target="_blank" rel="noopener noreferrer">Future Tech: Women in Tech 2021</a></li>
@@ -50,8 +67,14 @@ Women in STEM
   <li>Mentor of Iranian Women in Computing (<a href="https://iranwic.org/" target="_blank" rel="noopener noreferrer">IranWiC</a>)</li>
 </ul>
 
-Cal State LA
-======
+<h2 style="text-align: left; margin-bottom: 30px; 
+font-family: Segoe UI;
+margin:12px 0px 20px 0px;
+font-weight: 700;
+color: rgb(73, 78, 81);
+line-height:27px;
+font-size: 23px;">Cal State LA</h2>
+
 <ul>
   <li>Faculty Advisor, the International Computer Science Association (2023–Present)</li>
   <li>Faculty Member, Biomedical Engineering (<a href="https://www.calstatela.edu/ecst/biomedical-engineering/faculty" target="_blank" rel="noopener noreferrer">BME</a>) Minor Program (2020–Present)</li>
@@ -61,8 +84,13 @@ Cal State LA
 </ul>
 
   
-Membership
-======
+<h2 style="text-align: left; margin-bottom: 30px; 
+font-family: Segoe UI;
+margin:12px 0px 20px 0px;
+font-weight: 700;
+color: rgb(73, 78, 81);
+line-height:27px;
+font-size: 23px;">Membership</h2>
 <ul>
   <li>Biophysical Society (<a href="https://www.biophysics.org/" target="_blank" rel="noopener noreferrer">BPS</a>) (2022–Present)</li>
   <li>American Chemical Society (<a href="https://www.acs.org/" target="_blank" rel="noopener noreferrer">ACS</a>) (2017–Present)</li>
