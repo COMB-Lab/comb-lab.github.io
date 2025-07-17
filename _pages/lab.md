@@ -9,7 +9,7 @@ author_profile: true
 <h2 style="text-align: left; margin-bottom: 30px; margin:12px 0px 20px 0px;">Principal Investigator</h2>
 
 <div style="text-align: left; margin-bottom: 30px;">
-  <img src="/images/imgpro.jpeg" alt="Negin Forouzesh" style="width: 240px; height: 280px; object-fit: cover; border-radius: 2px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); margin-bottom: 15px;" />
+  <img src="/images/neginim.jpeg" alt="Negin Forouzesh" style="width: 240px; height: 280px; object-fit: cover; border-radius: 2px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); margin-bottom: 15px;" />
 
   <p style="margin: 0; font-size: 1.2rem; font-weight: bold;">Negin Forouzesh, Ph.D.</p>
   <p style="margin: 4px 0;">Assistant Professor of Computer Science</p>
@@ -22,8 +22,91 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 115px; justify-content: flex-start;">
 
-  <!-- Student Card: Ali Risheh -->
+  
   <div style="width: 220px; text-align: left;">
+    <img src="/images/NikhilDhiman-Dec19.jpg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Nikhil Dhiman</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+  
+  <div style="width: 220px; text-align: left;">
+    <img src="/images/izzy.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Lizbeth Vargas-Martinez</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+  
+  <div style="width: 220px; text-align: left;">
+    <img src="/images/drashti.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Drashti Shah</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+   <div style="width: 220px; text-align: left;">
+    <img src="/images/Fegul.jpeg" alt="Fergus Place" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Fergus Place</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Electrical and Computer</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Engineering</p>
+    <p style="margin: 0;text-align:leftr;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+  <div style="width: 220px; text-align: left;">
+    <img src="/images/izzy.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Humayra Rashid</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Undergraduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+  <div style="width: 220px; text-align: left;">
+    <img src="/images/Fegul.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Damian Bonds</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Undergraduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+</div>
+
+<h2 style="text-align: left; margin-bottom: 30px;">Alumni</h2>
+
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 115px; justify-content: flex-start;">
+
+<div style="width: 220px; text-align: left;">
+    <img src="/images/Libina_photo.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Libina Thomas</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+  <div style="width: 220px; text-align: left;">
+    <img src="/images/uriel.jpg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Uriel Baldesco</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Undergraduate Research Assistant</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+  <div style="width: 220px; text-align: left;">
+    <img src="/images/sunheng.jpg" alt="Dikshant Sagar" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Sunheng Leng</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Undergraduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+<div style="width: 220px; text-align: left;">
     <img src="/images/Ali.jpeg" alt="Ali Risheh" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Ali Risheh</p>
     <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
@@ -56,21 +139,6 @@ author_profile: true
     <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
     <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
   </div>
-
-  <div style="width: 220px; text-align: left;">
-    <img src="/images/Fegul.jpeg" alt="Fergus Place" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-    <p style="margin:0; font-weight: 600;">Fergus Place</p>
-    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Undergraduate Research Assistant</p>
-    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
-    <p style="margin: 0;text-align:leftr;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
-  </div>
-</div>
-
-<h2 style="text-align: left; margin-bottom: 30px;">Alumni</h2>
-
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 115px; justify-content: flex-start;">
 
   <!-- Student Card: Ali Risheh -->
   <div style="width: 220px; text-align: left;">
@@ -145,8 +213,8 @@ author_profile: true
 <ul style="font-size: 18px;padding-left: 20px;">
   <li>The Molecular Sciences Software Institute (<a href="https://molssi.org/" target="_blank">MolSSI</a>)</li>
   <li><a href="https://people.cs.vt.edu/onufriev/" target="_blank">Dr. Alexey Onufriev</a>, Department of Computer Science, Virginia Tech</li>
-  <li><a href="https://www.psnlab.org/" target="_blank">Dr. Paul Nerenberg</a>, Department of Computational Science, Claremont McKenna College</li>
   <li><a href="https://www.calstatela.edu/faculty/olaseni-sode" target="_blank">Dr. Olaseni Sode</a>, Department of Chemistry and Biochemistry, Cal State LA</li>
+  <li><a href="https://experts.calstatela.edu/expert/caitlin-scott/ " target="_blank">Dr.Caitlin Scott</a>, Department of Chemistry and Biochemistry, Cal State LA </li>
   <li><a href="https://www.calstatela.edu/faculty/david-m-krum" target="_blank">Dr. David Krum</a>, Department of Computer Science, Cal State LA</li>
   <li><a href="https://www.faculty.uci.edu/profile/?facultyId=4618" target="_blank">Dr. Ray Luo</a>, Department of Molecular Biology and Biochemistry, UC Irvine</li>
   <li><a href="https://users.math.msu.edu/users/weig/" target="_blank">Dr. Guowei Wei</a>, Department of Mathematics, Michigan State University</li>

@@ -13,7 +13,6 @@ redirect_from:
 font-family: Segoe UI;
 margin:12px 0px 20px 0px;
 font-weight: 700;
-color: rgb(73, 78, 81);
 line-height:27px;
 font-size: 23px;">Professional Activities</h2>
 
@@ -32,7 +31,6 @@ font-size: 23px;">Professional Activities</h2>
 font-family: Segoe UI;
 margin:12px 0px 20px 0px;
 font-weight: 700;
-color: rgb(73, 78, 81);
 line-height:27px;
 font-size: 23px;">Reviewer</h2>
 <ul>
@@ -54,7 +52,6 @@ font-size: 23px;">Reviewer</h2>
 font-family: Segoe UI;
 margin:12px 0px 20px 0px;
 font-weight: 700;
-color: rgb(73, 78, 81);
 line-height:27px;
 font-size: 23px;">Women in STEM</h2>
 
@@ -71,7 +68,6 @@ font-size: 23px;">Women in STEM</h2>
 font-family: Segoe UI;
 margin:12px 0px 20px 0px;
 font-weight: 700;
-color: rgb(73, 78, 81);
 line-height:27px;
 font-size: 23px;">Cal State LA</h2>
 
@@ -88,7 +84,6 @@ font-size: 23px;">Cal State LA</h2>
 font-family: Segoe UI;
 margin:12px 0px 20px 0px;
 font-weight: 700;
-color: rgb(73, 78, 81);
 line-height:27px;
 font-size: 23px;">Membership</h2>
 <ul>
