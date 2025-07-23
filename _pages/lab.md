@@ -12,7 +12,7 @@ author_profile: true
   <img src="/images/neginim.jpeg" alt="Negin Forouzesh" style="width: 240px; height: 280px; object-fit: cover; border-radius: 2px; box-shadow: 0 2px 12px rgba(0,0,0,0.1); margin-bottom: 15px;" />
 
   <p style="margin: 0; font-size: 1.2rem; font-weight: bold;">Negin Forouzesh, Ph.D.</p>
-  <p style="margin: 4px 0;">Assistant Professor of Computer Science</p>
+  <p style="margin: 4px 0;">Associate Professor of Computer Science</p>
   <p style="margin: 0;">California State University, Los Angeles</p>
 </div>
 
