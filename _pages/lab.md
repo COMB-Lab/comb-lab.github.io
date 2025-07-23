@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Computational Molecular Biology (COMB) Lab"
+title: "COMPUTATIONAL MOLECULAR BIOLOGY (COMB) LAB"
 permalink: /lab/
 author_profile: true
 ---
